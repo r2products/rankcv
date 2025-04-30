@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+pdfminer.six
+nltk
+spacy>=3.7.2,<3.8.0        # spaCy v3.7.x adds Python 3.12 support  [oai_citation_attribution:0‡spacy.io](https://spacy.io/usage/v3-7?utm_source=chatgpt.com)
+streamlit-tags
+azure-storage-blob
+python-dateutil
+groq
+bcrypt
+
+# SpaCy English model for v3.7.x (must match the spaCy version above)
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+
+
+
+
